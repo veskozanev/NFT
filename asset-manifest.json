@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NFT-test/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/NFT-test/static/js/main.cf7010fc.chunk.js",
+    "main.js.map": "/NFT-test/static/js/main.cf7010fc.chunk.js.map",
+    "runtime-main.js": "/NFT-test/static/js/runtime-main.a40e8562.js",
+    "runtime-main.js.map": "/NFT-test/static/js/runtime-main.a40e8562.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/NFT-test/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.2d53eab9.chunk.js": "/NFT-test/static/js/2.2d53eab9.chunk.js",
+    "static/js/2.2d53eab9.chunk.js.map": "/NFT-test/static/js/2.2d53eab9.chunk.js.map",
+    "index.html": "/NFT-test/index.html",
+    "precache-manifest.826c93520fa29314c7f3c97164ad4f9a.js": "/NFT-test/precache-manifest.826c93520fa29314c7f3c97164ad4f9a.js",
+    "service-worker.js": "/NFT-test/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/NFT-test/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/NFT-test/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.2d53eab9.chunk.js.LICENSE.txt": "/NFT-test/static/js/2.2d53eab9.chunk.js.LICENSE.txt",
+    "static/media/photo.png": "/NFT-test/static/media/photo.d6cbd8e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a40e8562.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.2d53eab9.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.cf7010fc.chunk.js"
+  ]
+}
